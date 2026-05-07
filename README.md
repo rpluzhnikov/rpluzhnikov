@@ -1,7 +1,7 @@
 ### Hi, I'm Roman 👋
 
 Building open-source tools for AI coding agents [@petbrains](https://github.com/petbrains).
-8+ years in tech. Based in Minsk.
+8+ years in tech. 
 
 Currently obsessed with **Document-Driven Development** - specs generate code, not the other way around. Tools below are working implementations of that idea.
 
