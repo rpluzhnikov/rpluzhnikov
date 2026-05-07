@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi, I'm Roman 👋
 
-<!--
-**rpluzhnikov/rpluzhnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building open-source tools for AI coding agents [@petbrains](https://github.com/petbrains).
+8+ years in tech. Based in Minsk.
 
-Here are some ideas to get you started:
+Currently obsessed with **Document-Driven Development** - specs generate code, not the other way around. Tools below are working implementations of that idea.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🛠️ What I'm building [@petbrains](https://github.com/petbrains)
+
+- **[mvp-builder](https://github.com/petbrains/mvp-builder)** — Document-Driven Development framework for Claude Code. Structured specs, TDD cycles, self-review, session memory.
+- **[design-builder](https://github.com/petbrains/design-builder)** — Design plugin for Claude Code. Production-grade interfaces on web and iOS.
+- **[designLib-mcp](https://github.com/petbrains/designLib-mcp)** — Curated design knowledge catalog served over MCP. Drop-in source of truth for any AI coding agent.
+
+→ More at **[petbrains.dev](https://petbrains.dev)** 
+
+---
+
+#### ⚡ Currently
+
+- Shipping AI-native dev tools @petbrains
+- Automating a Flutter banking app at scale
+- Hundreds of hours deep into Claude Code workflows
+
+---
+
+#### 📫 Reach me
+
+[[LinkedIn](https://www.linkedin.com/in/rpluzhnikov/)] · [petbrains.dev](https://petbrains.dev)
