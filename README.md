@@ -29,4 +29,4 @@ Building open-source tools for AI coding agents at **[App Builders Club](https:/
 ---
 
 #### 📫 Reach me
-[[LinkedIn](https://www.linkedin.com/in/rpluzhnikov/)] · [app-builders.club](https://app-builders.club)
+[LinkedIn](https://www.linkedin.com/in/rpluzhnikov/) · [app-builders.club](https://app-builders.club)
