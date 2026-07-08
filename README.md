@@ -12,9 +12,10 @@ Building open-source tools for AI coding agents at **[App Builders Club](https:/
 - **[QA_agents](https://github.com/rpluzhnikov/QA_agents)** - the Kensa-QA plugin. Spawns a full squad of expert agents (test-lead, ISTQB engineers, plus risk / API / web / mobile / security / performance specialists). Point them at a ticket, get committed test cases back.
 
 **Document-Driven Development tools** [@app-builders-club](https://github.com/app-builders-club):
-- **[mvp-builder](https://app-builders.club/tools/mvp-builder)** - DDD framework for Claude Code. Structured specs, TDD cycles, self-review, session memory.
+- **[dev-team-agents](https://github.com/app-builders-club/dev-team-agents)** - turns one Claude Code session into a coordinated dev team. An Orchestrator dispatches specialist agents (Analyst, Architect, Developer, QA, Reviewer, Debugger…) that hand off through a file bus, with a plan-review stage before any code and an optional Codex second reviewer.
 - **[design-builder](https://app-builders.club/tools/design-builder)** - design plugin for Claude Code. Production-grade interfaces on web and iOS.
 - **[designLib-mcp](https://app-builders.club/tools/designlib-mcp)** - curated design knowledge catalog served over MCP. Drop-in source of truth for any AI coding agent.
+- **[mvp-builder](https://app-builders.club/tools/mvp-builder)** - Document-Driven Development framework for Claude Code. Structured specs, TDD cycles, self-review, session memory.
 
 → More tools & the methodology behind them at **[app-builders.club](https://app-builders.club)**
 
