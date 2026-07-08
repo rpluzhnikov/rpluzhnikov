@@ -1,7 +1,7 @@
 ### Hi, I'm Roman 👋
 
 Building open-source tools for AI coding agents at **[App Builders Club](https://app-builders.club)** [@app-builders-club](https://github.com/app-builders-club).
-8+ years in tech. I build tools where specs and test cases live as plain files in git — and AI agents read, write, and verify them.
+8+ years in tech. I build tools where specs and test cases live as plain files in git - and AI agents read, write, and verify them.
 
 ---
 
